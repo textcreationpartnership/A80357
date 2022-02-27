@@ -1,0 +1,579 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Conscience caution'd, &amp; so set at libertie. Also a further ansvver to the city remonstrance. At the end there is also a petition of the authors; and one of the clergies by a prosopoeia.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80357</idno>
+            <idno type="STC">Wing C5898</idno>
+            <idno type="STC">Thomason E341_7</idno>
+            <idno type="STC">ESTC R200900</idno>
+            <idno type="EEBO-CITATION">99861522</idno>
+            <idno type="PROQUEST">99861522</idno>
+            <idno type="VID">113659</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80357)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113659)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E341[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Conscience caution'd, &amp; so set at libertie. Also a further ansvver to the city remonstrance. At the end there is also a petition of the authors; and one of the clergies by a prosopoeia.</title>
+               </titleStmt>
+               <extent>[1], 12 [i.e. 11] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed, anno Dom. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Publication begins on verso of t.p.; page 11 is misnumbered 12.</note>
+                  <note>Annotation on Thomason copy: "June 20th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>City of London (England). --  Court of Common Council --  Early works to 1800.</term>
+               <term>Church polity --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113659:1" rendition="simple:additions"/>
+            <p>
+               <hi>Conſcience caution'd, &amp; ſo ſet at libertie.</hi>
+            </p>
+            <p>Alſo a further ANSVVER TO THE City Remonſtrance.</p>
+            <q>And the Woman of <hi>TEKOA</hi> was a ſubtile Woman, and ſo is, &amp;c.
+<bibl>
+                  <hi>2 SAM. 14.</hi>
+               </bibl>
+            </q>
+            <q>But <hi>David</hi> ſaid is not the hand of <hi>Joab</hi> in this? And the <hi>Tekoaire</hi> replyed; as I live my Lord and King, it was <hi>Joab</hi> put all theſe words in my mouth, &amp;c.</q>
+            <q>And the S-erpent was more ſubtile, then all the Beaſts of the field, &amp;c. and ſaid ſo, and ſo, to the Woman, &amp;c.</q>
+            <q>Therfore God curſed the S-erpent, and ſaid; On thy belly ſhalt thou go, and dust ſhalt thou eat all the dayes of thy life.</q>
+            <q>There was a little City, and a great King beſieged it, and a poor man delivered this City, &amp;c.</q>
+            <q>At the end there is alſo a Petition of the Authors; And one of the Clergies by a Proſopoeia.</q>
+            <q>
+               <l>
+                  <hi>Mu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ciber in Trojam p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ro Tr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>j<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt bat Apollo.</hi>
+               </l>
+               <l>The City is beſieged; its wiſdome muſt ſecure it.</l>
+            </q>
+            <p>Printed, <hi>Anno Dom.</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:113659:2"/>
+            <head>An Anſwer to the City Remonſtrance.</head>
+            <p>WEE ſit at diſtance, yet can ſee at diſtance; ſo neer at hand alſo, and that nearly: oh the Huſhites of theſe times, I will be for thee as for thy father: ſo <hi>Joab</hi> ſmiles, and ſmites under the fifth rib: dyed <hi>Abner</hi> as a foole? Why, was he not jealous of <hi>Ioab?</hi> yet not ſhew it; it ſhewed his folly: Therefore like a fool he dyed, becauſe not armed with jealouſie againſt the Judas-like treachery of compliance, &amp;c. O the wily pretences of Gods honour, Religion, Unity, and to root out Sects, &amp;c. Yet who is it knowes, what makes for Gods honour, except what diſhonours him, ſo no Sects rootable out, for all ſo no<g ref="char:EOLhyphen"/>tioned are not ſuch, ſo then our own ignorance, and the knavery of others befool us: But what by this would become of the Rooters out, &amp;c. but to be rooted out for Sects, they are alſo to others, as others to them.</p>
+            <p>But to the point, <hi>the City Remonſtrance,</hi> we have viewed over, and given our conſtruction in ſhort, as followeth:</p>
+            <p>
+               <note place="margin">Remonſtr. pag. <hi>3.</hi>
+               </note>Firſt, we have covenanted to reduce Religion the neereſt we can to Gods Word; ſo then not to the Scots, if remote; for remote, and neareſt are remote, prove the Scots juſt anſwerable, and we com<g ref="char:EOLhyphen"/>ply: if neer, its nothing, if we prove a nearer: now then if we prove not only what's neareſt, but what's it? <hi>it</hi> admitteth no diſtance from its ſelf: and what if we prove the Scots not only not near, but remote, give us time, &amp;c.]</p>
+            <p>
+               <note place="margin">Were the <hi>40</hi> men bound to kill Paul, or not ra<g ref="char:EOLhyphen"/>ther repent of the bond.</note>Had the Covenant been abſolute for the Scots, and no other, if yet remote from Divine Ordination, we then ſay none are bound, but bound to the contrary: it was an errour to make it's ſinne to keep whats knowingly a ſinne, ſins ſingle are enongh: ſome ſufferings are ſufferable by reaſon; ſo Pſalm 15 but no ſins: therfore we now deſcend to particulars: [What in pag. 4. concerns the King and the Scots, we well know how to anſwer; but we reſerve our ſelves for a fit ſeaſon.</p>
+            <p>To the 1. Its againſt Divine Ordination, to puniſh, or ſuppreſſe as ſuch, or as ſo called, Sects, Conventicles, &amp;c. or for Errours in Reli<g ref="char:EOLhyphen"/>gion: reade Rom. 14. If the ſaid Sects live peaceable, if faithfull to the State, ſo if they teach not any thing deſtructive to particular or univerſall Rights, or the States ſafety; ſo if not exclaime againſt o<g ref="char:EOLhyphen"/>thers under the notion of Sects, of all which by ſo exclaiming, they
+<pb n="2" facs="tcp:113659:2"/>
+juſtifie others exclaiming againſt them. But if contrary to any the a<g ref="char:EOLhyphen"/>foreſaid, rectifie ſo far, but root not out: where doth Scripture take order to inforce againſt private meetings, and only enjoyn the Pub<g ref="char:EOLhyphen"/>like, and that by force; ſhew it, and ſatisfie. I would all could comply to publikes, as well as I, and though all things were lawful to <hi>Paul,</hi> yet to the ſcrupulous hardly any thing at all.</p>
+            <p>And ſo not only privates, but the publique Pulpet alſo pu<g ref="char:EOLhyphen"/>niſh, if not qualified as afore; for a rectified Conventicle as afore, is better then an Hereticall Pulpet. But the intention of the Clergy under this taking of Gods honour, unity, rooting out Sects, &amp;c. may be to prelate it over the State and City too, though they ſee it not, Conventicles they would have none at all, but their ends may be that none in private ſhould teach any thing prejudicial to their greatneſſe, or diſcover their falſities, but would ingroſſe the ſole judgment in points of Religion into their own hands, and have the whole power of deceiving people without diſcovery; and yet is my houſe a Conventicie, I may teach my own in my own, and I may let in any one to hear me; why any invade my private Prieſthood,<note place="margin">VVhat I may do all may do, hovv then<g ref="char:punc">▪</g>
+               </note> wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ſelfly: the Prieſt is but a Deputyſhip, by, from, and for ſuch ſelf-Prieſts, not it, for its noteable, as I teach my Children by a School-ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er, whom I may teach my ſelf if I pleaſe, but dare not, leaſt it prove a Conventicle.</p>
+            <p>To the 2. we reply as afore.</p>
+            <p>To the 3. A fine pretence of the under-hand Clergie, &amp;c. But its they would govern the Governours, and Government too, in being Judges; it muſt not govern them, the Government for Religion they would as at 1.2. ought all there to inne the<g ref="char:cmbAbbrStroke">̄</g>ſelves only? For obedience to Civill Government I yeeld to, elſe were uncivill, for Religion, its againſt Religion and Reaſon; ſo Divine Ordination (the ground being qualified as at firſt) to inforce, conſtrain, &amp;c. Its injuſtice to inforce or puniſh where no injuſtice is done, for Errors in Religion, ſaith not <hi>Paul,</hi> Rom. 14. what is it to thee, thou ſuffereſt not, art not injured, let him alone to God, its to God, not to thee, he ſhall anſwer for himſelf: I ſay further he is charged to hold his Errors till right<g ref="char:EOLhyphen"/>ly righted; that is, not by force, but convincement: ſee Rom. 14. reade all, Reaſon ſaith as well as Religion, where no body is wrongd though an errour it be, and deformity to the eye, yet why remedy it by the means of injuſtice?</p>
+            <p>Yet one Errour there was againſt a Fundamentall, or neer it, one would not obſerve a Sabbath; and what ſay you to the Sad<g ref="char:EOLhyphen"/>duces,
+<pb n="3" facs="tcp:113659:3"/>
+that in our Saviours time held no reſurrection? what was Chriſt and Paul abbe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ers by ſilence; out they muſt have gone by ours. To the 4. Its againſt Divine Ordination to defeat of Rights, if qualified as at 1. or at 3. b. Ought theſe in Rom. 14. which were all Sects, erroneous, Independent<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, &amp;c. in point of Conſci<g ref="char:EOLhyphen"/>ence be defeated of their rights? where do<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h Religion or Juſtice teach that? ſure Religion eſtabliſheth civil Rights, as each mans Kinghood, and Prieſthood, &amp;c. elſe is it no right,</p>
+            <p>The Clergie by this may be juſtly defeatable, becauſe under<g ref="char:EOLhyphen"/>hand they may be deſtructive to the S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ates, cunning<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y gaining the Militia to their hands, to conquer all: yea, themſelves, and we will not ſay, they ſide with, or would convey it to <hi>K.</hi> or <hi>S.</hi> to bear them out, we leave it to the State: But o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if ſo, are they not treacherous, &amp;c. to fight againſt God and Man, yea their own Coun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rey,<note place="margin">Loo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to it Citizens, you are beſieged by Symon &amp; his tro<g ref="char:EOLhyphen"/>jon Horſe. Look into his belly and no on his back.</note> I appeale. See to it Citizens, the third Dog will get the bone: ſuites it to your greatneſſe and wiſdome to bee flattered, and deceived, with &amp;c.</p>
+            <p>To the 5. I know more then I will know in this; and wee queſtion not, but the State knowes all knowable, &amp;c. It may ar<g ref="char:EOLhyphen"/>gue great poverty of underſtanding, but plenty of depraved<g ref="char:EOLhyphen"/>neſſe: what if we prove it againſt Divine Ordination; how then? Allow us frredome, and we undertake i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, oppoſe us who dare. To the 6. Its right, if right ends and wayes b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>The 7, 8, 9. Good all, I conceive; bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conclude not.</p>
+            <p>The 10, 11. I cannot judge of; ſo judge not of.</p>
+            <p>The 12. Good alſo, or nothing is good.</p>
+            <p>To the 13. I ſay little too; but that little is much, why? <hi>Scotland</hi> decline the Parliament, the whole Kingdom convened, &amp;c. in whom they know lyeth (the right and ſtate of the States: Is it not diſhonour? implyes it not under-hand complyance: we ſay not it doth, but refer it to judgment. <hi>Queries are ſafer then Reſolutions.</hi>
+            </p>
+            <p>Oh thou Stalking Horſe, R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ligion, Gods Honour, Worſhip, Service, Vnity, rooting out Sects, &amp;c. what villanies are acted of Atheiſts under this fine veile, &amp;c, but I forbeare, though I can beare no longer, is it not under a ſhew of devotion to c<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſſe one another, and ſo ſet together by the eares.</p>
+            <p>To the 14. This City is abuſed, or will abuſe themſelves, <hi>Quaere,</hi> if this Clergy and S. and K. underhand would not have it ſo beſtowed, that they might beſtow it, &amp;c. And then P. S.
+<pb n="4" facs="tcp:113659:3"/>
+are Kings, but will ſhew us the King to delude us: and thus the Ci<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y and State may be unſtated &amp;c.</p>
+            <p>Oh you Citizens bee not befooled by theſe Nominalls of Re<g ref="char:EOLhyphen"/>ligion of one ſide or other; for they will outreach you, if you reach them not in ſeaſon.</p>
+            <p>Did they not Darius and Dagon, they were too heard for their God, and their King. Yet oh great is Dagon, and oh King Darius live for ever.</p>
+            <p>To the 15. Judge juſtly of Quarterman, and quarter him not, I ſay not, he errd, or errd not, for I know nothing, he might erre in ſome circumſtances, not in the maine, his faithful<g ref="char:EOLhyphen"/>neſſe to the State, and preſent neceſſity may excuſe Formes, Ceremonies, &amp;c. a State for a State are not bound to any thing, elſe could they not ſave it when endangered.</p>
+            <p>Principles are wanting, Gods Houſe on ſuſpition; for a State may be turned <hi>topſi turvie,</hi> yea unſtated, I am a Citizen and ſtand for its juſt priviledges but none are juſt, or pleadable a<g ref="char:EOLhyphen"/>gainſt a Sate for a State, nay I particularize not, nor by the State againſt the State, for ſo might our Soveraigne <hi>S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lus populi</hi> be un<g ref="char:EOLhyphen"/>ated, and by that, our ſelves; for individuales makes univerſales.</p>
+            <p>
+               <hi>Sectariſt,</hi> a man of errors, is no blemiſh but unto black un<g ref="char:EOLhyphen"/>derſtandings, if otherwiſe qualified as at firſt, for who is not ſo one to another, ſee Rom. 14.</p>
+            <p>To the 16. And reaſon too, if ſuſpition and States neceſſity allowed not what was done, yet to find nothing, is no Argu<g ref="char:EOLhyphen"/>ment, but not to have ground to Seeke, yet what ground ſhall a State for a State be ſtated to.</p>
+            <p>To the 17. If every way ingenious, its reaſon, yet who knowes inward ingenuity, it ſtands the State on to ſtand on their Guard, of wiſe jealouſy, if not of the City, yet of <hi>Ioab,</hi> and <hi>Iu<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> Salutes, &amp;c. I would the City were as wiſely zealous of <hi>Ioab</hi> and <hi>Iudas,</hi> Intentions may be faire, and not to comply with any parties, but parties may comply with and ſo overreach by pretences and complyance: Theſe muſt be provided againſt, becauſe they are againſt, &amp;c.</p>
+            <p>And laſt of all, is this the reward his excellent Excellency the faithfull Sir <hi>Thomas Fairfax,</hi> and inconquered <hi>Crumwell</hi> our preſervers muſt expect <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be diſarmed, and rooted out as Sects &amp;c. Are they not qualified as at 1? have we not juſtified them, as there have they not ſaved us from ſlavery of Body, Eſtate, and
+<pb n="5" facs="tcp:113659:4"/>
+Conſcience? conſider of it: oh ingratitude, inhumanity unheard of, why offer you not your Lives, Eſtates, and all you have as an offering to their Service? I am aſtoniſhed, &amp;c. Chriſtians, oh, we are Gentiles to the Gentiles, where is the Cities reward, ſo each ones? you Independents why do you forget your ſelves? we have all Life, Eſtate, Being, and injoy W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ves, Children, Friends by their Manhood and Faithfulneſſe.</p>
+            <p>Oh ſordidneſſe, is all forgot, is this Religion, and for Gods Honour, to roote out errors wherein is no Injuſtice, and its to God not to man, Rom. 14. by the greateſt of errors injuſtice, ingratitude, and make Religion a pretenc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for all; If God will beare with errors, will not ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h inhumaine man, ſee Rom. 14. and be aſhamed of thy ſhamefulneſſe.<note place="margin">Note.</note> Its Athiſme in the high<g ref="char:EOLhyphen"/>eſt degree, becauſe againſt Gods own Act and with<g ref="char:punc">▪</g> &amp;c. as afore Rom. 14.<note place="margin">Note.</note> Is it not blaſphemy to abuſe his name as a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 13. for to culler injuſtice as at before, O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>esb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ters, and Indepen<g ref="char:EOLhyphen"/>dents of the Clergy for your own end<g ref="char:punc">▪</g> be not treacherous to the State, it ſutes not to Religion, Reaſon nor moralities, it preacheth you irreligious Artheſts, yea inhumane: m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>S<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>us</hi> your Soveraigne be ſacrifized to your pride a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and cove<g ref="char:EOLhyphen"/>touſneſſe?<note place="margin">Quaeries.</note> 1 May not the Scot keep the King for a Ca<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er and ſeeme to reverence in all externall poſtures, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>des, and in writings on purpoſe to keepe up his opinion, and S<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo they may inſtate themſelves under its umb<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ge, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> mak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us conceive it reall, that we may realize <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> him ſo their uſe.</p>
+            <p n="2">2. May they not for their own ends petition him whom they have power to make petition them. 3. May they not write what they pleaſe in his name,<note place="margin">See to its Citizens you are beſie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed, and beſot<g ref="char:EOLhyphen"/>ted too.</note> yet all their own dictating; to theſe, or thoſe, ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> good Couſins, or our peoples, &amp;c. of <hi>London</hi> or elſe<g ref="char:EOLhyphen"/>where: we ſay not that theſe things are thus; we ſay otherwiſe: but no body can let us to ſay, but they have power in their hand thus to do; nor can any one let them from doing ſo, but their own goodneſſe, if they have ſo much goodneſſe.</p>
+            <p>If the Scots ſtay and keep our Towns and Gariſons, after voted out, is it not invaſion? Is it not the ſame to enter in hoſtility, or in confluent numbers, after voted out. If they deliver not up the King when demanded without capitulation; for they are our Army, our Servants, and is not the King our States priſoner: what is it? and what is He if not ſo? Suffer oh State, ſuffer both Independents and Claſſicks cautioned as at firſt, and you ſhall
+<pb n="6" facs="tcp:113659:4"/>
+be rid of a world of troubleſome fools, and ſo be at quiet in that particular, and not only ſave, but ſtrengthen the Kingdome, and quit it from all danger; for when every one hath what he would what would be more, it agrees with Divine Ordination; ſo God and Chriſts will, ſo policy of State, reaſon and humane Juſtice, Rom. 14 it procures peace and quietneſſe amongſt us, and rids of perſecutions, crutiations, and exclamations. This being granted, no queſtion but you ſhall find ſuch a Troop of ſanguine Spirits, as ſhall retrogade the Sun, and caſt a faint paleneſſe on the Tur<g ref="char:EOLhyphen"/>kiſh Moon.</p>
+            <p>An univerſall Claſſick beauty and conformity which is plea<g ref="char:EOLhyphen"/>ſing and delightfull to the eye will be wanting; but its better to diſpence with beauty, then burn for it; better is ſafety then curioſity, deformity will diſpleaſe, but ſafety will make ſatiſ<g ref="char:EOLhyphen"/>faction; beſides meere Errours may not be remedied with a greater Errour; yea, and ſinne of injuſtice to puniſh where none is wronged. Judge not of, for I never read it.</p>
+            <p>I only make bold to tell our Citizens,<note place="margin">The State the multi<g ref="char:EOLhyphen"/>tude, in vvhich are vveaker or vvicked,</note> the Woman of <hi>Tekoa</hi> was crafty; but my Lord the King is as an Angell of Light, and we like light Angels.</p>
+            <p>And now we only petition the State, who never yet peti<g ref="char:EOLhyphen"/>tioned, and yet never ceaſe petitioning in our hearts, but our hands are alwayes bound, and are not yet looſed: We firſt give all humble and hearty thanks for all received, which are of that infinity, that finities cannot conceive; much leſſe expreſſe them. We chooſe therefore to render ourſelves with ſilence, as beſt; becauſe leaſt troubleſome, and ſo deſire to be conceived grateful to the uttermoſt of Conception, &amp;c.</p>
+            <p>Next we humbly and heartily implore by all thats juſtly pre<g ref="char:EOLhyphen"/>valent with man<g ref="char:punc">▪</g> in Juſtice to hear us, as you are juſt men, or ra<g ref="char:EOLhyphen"/>ther Juſtice it ſelf, from whom as a Fountain ſhould run in rivo<g ref="char:EOLhyphen"/>lets and vei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in a diffuſive, and contributive way, the influence of Juſtice: Firſt, to yours in theſe: next to our chiefe Soveraign <hi>Salus populi:</hi> next to each individuall; Keepe wee humbly be<g ref="char:EOLhyphen"/>ſeech you our rights of Kinghood, and Prieſthood, &amp; overthrow them not for Rites<g ref="char:punc">▪</g> &amp;c. Take heed of <hi>Templum Domini,</hi> ſo in <hi>No<g ref="char:EOLhyphen"/>mino Domini,</hi> &amp;c. ſo all at 13. <hi>b. c.</hi> The Authors have other ends then thoſe pretences.— <hi>Salus populi</hi> is above them primarily or in competition: the Sabbath for man, not man for it: ſacrifice the ſame, if thou loveſt not thy brother whom thou ſeeſt, how
+<pb n="7" facs="tcp:113659:5"/>
+then God whom thou ſeeſt not, ſave <hi>ſalus</hi> firſt we beſeech you, and indanger it not under thoſe Notions of Reformation.</p>
+            <p>The Clergie hearing of this Petition, and fearing to be outed, petitioned and humbled themſelves to the State by <hi>Proſopeia</hi> as followeth:</p>
+            <p>
+               <hi>Right Honourable, &amp;c.</hi>
+            </p>
+            <p>We firſt give thanks and acknowledgments, according to the tenour of the Author aforeſaid, as moſt comprehenſive, and leaſt troubleſome.</p>
+            <p>Next we acknowledge our weakneſſe, and wickedneſſe, that ſome of us ſee not; and who do, will not ſee their uſu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion &amp; invaſion of our Mr. Prieſts rights; yea, their K<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nghood by en<g ref="char:EOLhyphen"/>deavouring to be Judges; And as ſo, what is it we would not have brought within the C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rcuit <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Juriſdiction, and give in ver<g ref="char:EOLhyphen"/>dict on our ſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e: We want not wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l, but power, longer to con<g ref="char:EOLhyphen"/>teſt in Argument, and that we now comp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y is not of ingenuity bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſity.</p>
+            <p>We deny n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, but it might be our policie to gain the Citie on our ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de, and ſee them againſt the <hi>Indep<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nde<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> our Brethr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n (could our ſtomachs ſtoope to call them ſo) under t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e fine notions of Gods Honour, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ooting out Se<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, <hi>Templum D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mini,</hi> Religion, &amp;c. things ver<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> taking with the religious, and d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vout, yet ig<g ref="char:EOLhyphen"/>norant, and unprincipled, and ſimple, as not armed with Ser<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent no ſuſpition. So might it be alſo <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urponcie, to ſet the Citie againſt the State, by ſuch &amp; ſuch ſuggeſtions, ſtrengthning them further with he pretences of love; ſo o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their honour &amp; priviledges, &amp;c things of a taking nature alſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſe are nothing to us except as conducing to our ends, which might be to <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>k</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n our adverſa<g ref="char:EOLhyphen"/>ries, by gaining the City on our ſide; but if yet the Cities help ſufficed not, then the aforeſaid ſweet notions pret<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nces &amp; ſuggeſtions, &amp;c. might <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erve to induce the C<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y to ſide <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t vvith <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inon</hi> to bring in his Trojan Horſe to ſubdue our and their adverſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies, &amp;c. vvhich alſo might ſerve, our turn being ſerved, to ſubdue the City it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>el<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, leaſt they ſhould tu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> our a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſaries, vvhen they ſee our trea<g ref="char:EOLhyphen"/>cheries; f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r vvhat is it to ſome of us, vvhom vve can ruinate, ſo vve can raiſe our <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elves. Yea, vve den<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not, bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vve might d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> alſo vvith <hi>Si<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on</hi> to <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er</hi> and <hi>Ioab;</hi> its intercourſively vvith b<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ty und<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r the aforeſaid notions ſuggeſtions and pret<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cceſſions of all ſweet blandiſhments, ſalutes, and im<g ref="char:EOLhyphen"/>bracements, &amp;c a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> how doſt my b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>other, &amp;c. o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Cit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not be<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir<g ref="char:EOLhyphen"/>cumſp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct, might be ſm<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nde<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rib, and die lik<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a tool, &amp;c VVe<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>re re<g ref="char:EOLunhyphen"/>ly vvholly at your <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ci<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or vv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>vv <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot vvhat to plead<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e do all <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xcuſe this Aut<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ors Diſcoverie, confeſſing it ours by inforcement, And do<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e if he have any thing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he to imp<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> for <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen</hi> univ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſall good to which vv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have bin very m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rious that he vvil do it, And vve humbly beſeech <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou Honours to commmand him thereto, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he ſhall be an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vvay neglective; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd thus vvith our humbl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſubmiſſion, yea vvith a total ſubduing our <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ves v<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eſt not only your Petitioners for favour, vvhich vve have much need of conſidering
+<pb n="9" facs="tcp:113659:5"/>
+our guilt, but we acknowledg our ſelves your ſlaves and Priſoner for our great treacheries, in ſeeking under ſuch ſpecious Notions, to be Judges of our Judges, and ſo King it over the Kingdome.</p>
+            <p>The Authour being circularly ingenious and Zealous of the com<g ref="char:EOLhyphen"/>mon good hath complyed to their requeſts, and will with the ſtates leave <hi>State Divine</hi> Ordination to the life, as ſhall not be made head againſt by any Power whatſoever, but ſhall be as cleer, as is a Dia<g ref="char:EOLhyphen"/>phane Mirrour, which diſcovers cleerly the naturall Countenance in each veine, limbe, &amp;c.</p>
+            <p>And now oh thou honourable City, of whom I am a Member, it's my Love, care and zeale hath begot theſe cautions; be zealous, yet ſhew it not, take heed of thoſe pretences of <hi>Gods Honour, &amp;c.</hi> miſtake not the higheſt Principle (eſpecially in competition) is Humane ſafe<g ref="char:EOLhyphen"/>ty; and God makes it his Honour, the next is juſtice, — paſſe by ſome ſeeming affronts (which may be are none,) rather then ruine your ſelves and yours by an uncertaine righting of them, concen<g ref="char:EOLhyphen"/>trize with the State, and the State with you, — If you love the State <hi>and Eſtates,</hi>—Doe your beſt to rectify them, ruine them not, nor your ſelves; I expect Love and Protection from you for thus cautioning;—Silence is betraying, &amp;c.</p>
+            <p>And now oh <hi>Presbyters</hi> and <hi>Independents</hi> of the Clergy, of that depraved ſort, how anſwer you it in Religion, Reaſon, or Morality, for to abuſe the Notions at 13. <hi>C.</hi> to trecherize it to your Country, and one to root out the other, and King your ſelves over your Kings? — Doth not this Preach you Athiſts, and Hypocrites? You will Athiſme the whole Kingdome, who looke not to your words, but your workes, not your Pretences, but intentions;— Againe, know you not, the <hi>State</hi> of the <hi>State,</hi> —is it not the whole Kingdome, each Individuall, &amp;c. I can prove it is: Are you ſo State<g ref="char:EOLhyphen"/>ly, you cannot yeeld them their <hi>State?</hi> Your Poſtures are not Prime Prieſts, for that's each Familiſts due: You are onely the Deputy-Prieſts to each Individuall, who paying you, you are their Servants; and ſits not each of thoſe Individualls ſelfe, and Prime Prieſts in your <hi>S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ate</hi>-houſe by their State-contract? —Oh Heavens, will you Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d it over your Lords; I profeſſe, if ye make head againſt your Heads any longer,—I know what it is, and you ſhall know; for I ſay, You deſerve beheading.</p>
+            <p>For ſhame recant, and turne not your Native Country into a <hi>G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<g ref="char:EOLhyphen"/>gotha,</hi>
+               <pb n="10" facs="tcp:113659:6"/>
+an <hi>Aceldama,</hi> &amp;c. —Affront not, nor indeavour not the root<g ref="char:EOLhyphen"/>ing out one the other, but as Brethren, (though of different judge<g ref="char:EOLhyphen"/>ments,) love each other: is there never an <hi>Abraham</hi> of you? take which hand thou wilt, the other is mine: But I thinke you are both <hi>Abrams,</hi> which is the reaſon you doe it not, humble your ſelvs to the State, your Maſters, as your Maſter-Prieſts, and beſeech them to pardon you, and give way to each of you,—caution'd as at 1. and pray to God the very thoughts of your hearts may be forgiven you, for you are in, <hi>&amp;c.</hi>
+            </p>
+            <p>If what we have ſaid before, be not of value ſufficient, as we con<g ref="char:EOLhyphen"/>ceive it is for <hi>Liberty of Conſcience</hi> cautioned, as at firſt, it's yet thus farre of vallew, Thee <hi>Sufferance</hi> ought to bee, till the State be in Safety; inforcing being not onely injuſt, but indangering alſo to the State, the ſaid <hi>Sects</hi> (ſo call'd) being the maine Protectors of it; for who fight for <hi>Liberty,</hi> fight reſolvedly,—and Maſculinely; and ſup<g ref="char:EOLhyphen"/>poſe the State ſettled, yet then convincement, perſwaſion, &amp;c. is the onely way, and not conſtraint; the one is for men, the other for beaſts;—if any man can anſwer me, I am anſwered.</p>
+            <p>Thus laſt of all, may I have your patience to Pathetick it, and then I have done.</p>
+            <p>I am as low as man can be, and be, but might I be raiſed from thence, and inthroned in the mid'ſt of heaven; and have the Earth for my foot-ſtoole, and the burniſh'd rayes of the Sunne throwne about me for my roabe, my Temples crowned with wreathes of Starres, my hand Sceptured like <hi>Jove,</hi> and my ſelfe inpowered with Omnipotency, —In ſhort, could I be godded, to the height of <hi>Poeticall Fixion,</hi> yet would I not inhumane my ſelfe to arive thereto, nor decline the Ingenuity, the integrity nor dictates of Nature, nor raze one mans life, to raiſe myſelfe, and this of nature, as a Gentile, how then, if Religion be added; I confeſſe, Priſons and paines be<g ref="char:EOLhyphen"/>yond Power might inforce, beyond what all pleaſures can doe: here I am jealous, in the other, I am knowingly reſolved.</p>
+            <p>To ſay how I have been tempted to ſide it, and how adventerous againſt all oppoſers, I forbeare; I will not urge Religion, becauſe of the irreligious I ſhould be ſlighted; yet the Religious may aſſume it, I keep to Principles of Nature, that man cannot retrograde nor invert except he beaſtialize.</p>
+            <p>I would not for Millions, nor for Idiot fantaſticall honours, or
+<pb n="11" facs="tcp:113659:6"/>
+rather diſhonours, (had wee honourable underſtanding, for it on<g ref="char:EOLhyphen"/>ly gaines the opinions of fooles, ſuch fooles are wee,) I would not, I ſay, for ſuch fantaſmes and momentaries beſlave and vaſſalize my Poſterity to immence Tyranny, and unbounded folly; Nor that my owne heart ſhould tell me, I am a Knave, or Foole, &amp;c. bribed by momentary meanes diſhonourable Honours, Preferrments, Offi<g ref="char:EOLhyphen"/>ces, &amp;c. Or that my ſteward, my Deputy,—ſhould thus fall out with his Lord.</p>
+            <p>Nor would I turne Traytor to my truſt, and ſo a Roague, hatefull to God and man, and the off-ſcowring of the world.</p>
+            <p>But Promiſes, flatteries, inſinuations, hopes of great, Titles, and meanes, Offices, How doſt, my Brother &amp;c. have ſmit the reputati<g ref="char:EOLhyphen"/>ons of many under the Fift rib, &amp;c. ſo they are dead, or like to die like fooles.</p>
+            <p>Oh what language ſhall I uſe? For I cannot finde men to deli<g ref="char:EOLhyphen"/>ver my ſelf to; Oh, as we would doe as we would be done to; how condemne, and exclaime wee at thoſe, for treacherous and baſe, that faile us in our juſt Truſts and ingagements,— Doth not our hearts alſo, as <hi>Davids,</hi> ſay to us, <hi>Wee alſo are the men.</hi>
+            </p>
+            <p>Oh <hi>Engliſh,</hi> Let not the world cry ſhame on us, nor jeere us for the aforeſaids.</p>
+            <p>Let not after Ages, and our Poſterities curſe us, and that it may not Proverbialize, <hi>as fooliſh as baſe, as trecherous, as roaguiſh, as evill as an Engliſh-man.</hi>
+            </p>
+            <p>Let's ſtand on true Honour, and aquire Noble Fames, and Names, by <hi>quieting our ſelves like men,</hi> and let after ages, and our Poſterities Bleſſe us; let's not be as afore, a by-word, a jeere, &amp;c. to all the Na<g ref="char:EOLhyphen"/>tions of the world, and now I have done, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>
+               <hi>Quere.</hi> NOw the Scotts have got the <hi>King</hi> amongſt them, if they may not make uſe of his Name, Perſon, Hand, ſeale, Letters, Meſſenges, Proclamations, <hi>&amp;c.</hi> To deceive and delude the People; as if his Acts, and all may be their owne: Alſo they may Summon Townes, Forts, Caſtles, in his Name, yet for themſelves: So may they hoſtilely enter the Kingdome, and uſe his pre<g ref="char:EOLhyphen"/>ſence and Name to colour it: <g ref="char:V">Ʋ</g>nder his Name may he pretended the <hi>Set<g ref="char:EOLhyphen"/>ling of Religion, a firme Peace,</hi> ſo all for Gods Honour, and our Ser<g ref="char:EOLhyphen"/>vice, <hi>&amp;c.</hi> Maintaining <hi>Liberties</hi> and <hi>Priviledges,</hi> and delivery from all
+<pb n="12" facs="tcp:113659:7"/>
+               <hi>Taxes, Payments,</hi> &amp;c. And <hi>reſtoring the King to his Rights;</hi> Alſo <hi>the rooting out of Sects;</hi> Or if it may take better, <hi>the giving liberty of Conſcience;</hi> All very pleaſing and taking things with ſimple People, and fooles, to deceive, and conquer them, and then jeere them: Theſe may be ſeconded with <hi>Proteſtations, Invocations, Execrations,</hi> &amp;c. to gaine beliefe. This they may doe; though this we hope they'l not doe: and we hope the People by this, are leſſened, not to give eare unto any ſuch flatterers, <hi>&amp;c.</hi> not Proteſtations, ſhould they be; Nor ſell their <hi>Birth<g ref="char:EOLhyphen"/>rights</hi> for a meſſe of Portage: Nor take up Armes, as if for the King, when if i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> came to that, it's to King the <hi>Scotts,</hi> under the colour of his Name, <hi>Kings of England,</hi> and to make the <hi>Engliſh</hi> their ſlaves: What then will become of our <hi>Peeres,</hi> and <hi>Prieſts,</hi> or any, for all their fine <hi>Pro<g ref="char:EOLhyphen"/>miſes,</hi> and hopes, if any be.—<hi>I will be for thee, as for thy Father,</hi> &amp;c. <hi>Kym, —Kam,—&amp;c</hi>—How doſt my Brother? — &amp;c.— wee hope otherwiſe then as afore; yet Wiſdome allowes to caſt the worſt, and provide, for <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> they on their ſide, &amp;c.</p>
+            <p>
+               <hi>Queries in caſe that either Law, or <g ref="char:V">Ʋ</g>ote of the Lords ſhould not be for the preſent ſafety and we <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of the Kingdome.</hi>
+            </p>
+            <p>MUſt the nicity of the <hi>Law,</hi> or the ceremony of <hi>Votes,</hi> indan<g ref="char:EOLhyphen"/>ger or deſtroy the People? Is not the <hi>Law</hi> the Peoples crea<g ref="char:EOLhyphen"/>ture, made for the Univerſall ſafety of all, without excep<g ref="char:EOLhyphen"/>tion? Muſt Millions of living men lie at the mercy of a dead Letter, or becauſe 40. 50. or 100. <hi>Lords</hi> will not Vote their ſafety?</p>
+            <p n="2">2. Are not the <hi>People</hi> in generall <hi>Lord</hi> of the Law, though the Law doth Lord it over particulars? If neither Law nor Lords will allow the <hi>People</hi> to be ſaved, then may they not be ſaved any way, and both <hi>Lawes</hi> and <hi>Lords</hi> fall before thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Soveraigne <hi>the People,</hi> as <hi>Dagon</hi> did before the <hi>Arke,</hi> rather then the <hi>People</hi> periſh.</p>
+            <p n="3">3. Is it not <hi>higheſt Treaſon,</hi> to <hi>Vote</hi> whatſoever is either deſtructive to the <hi>Peoples ſafety,</hi> or not to <hi>
+                  <g ref="char:V">Ʋ</g>ote</hi> at all, or not in due ſeaſon, what<g ref="char:EOLhyphen"/>ſoever is not for their publike ſafety and weale?</p>
+            <p n="4">4. Though the <hi>Perſian law</hi> was unalterable by the King, was it ſo by the <hi>State,</hi> for the <hi>State?</hi> If ſo, were they not rathe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>F<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>les</hi> then <hi>S<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tiſts? For my part, if it come to</hi> Saving, <hi>I will not Diſpu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, but ſave any way, and then diſpute afterwards.</hi> Did not God himſelf diſepnce with the breach of his own Law, <hi>concerning the Sabbath,</hi> even for the ſafe<g ref="char:EOLhyphen"/>ty of <hi>a ſheep?</hi> And how d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reſt thou, O <hi>ſheepiſh,</hi> (o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ather <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ſh) man, preferre a wicked or corrupt law, (or the execution of thine own wicked paſſion) before the precious life of any one, much leſſe of thouſands.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
